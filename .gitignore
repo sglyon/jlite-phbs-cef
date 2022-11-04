@@ -1,0 +1,9 @@
+dist
+.ipynb_checkpoints
+.cache
+.netlify
+*.db
+*.pdf
+python_data.data
+python_data.js
+.DS_Store
